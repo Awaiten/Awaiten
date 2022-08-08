@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Awaiten
 - 👀 I’m interested in Containing Life itself.
-- 🌱 I’m currently learning Python Code. and C+(+) (idk why but i want more C+++++++++++++)
-- 💞️ I’m looking to collaborate on My depression 
+- 🌱 I’m currently learning Python Code.
+- 💞️ I’m looking to find somthing 
 - 📫 How to reach me via Discord @Awaiten0455.
 
 <!---
