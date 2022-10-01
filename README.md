@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Awaiten</h1>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Serif+4&pause=1000&color=AE44F7&background=60FF6400&center=true&width=435&lines=Discord+Bot+Developer+%7C+Python;https%3A%2F%2Fdiscord.gg%2F4BWz8mZq9A" alt="Typing SVG" /></a> </h2>
 <h3 align="center">I'm a developer from the United States, Python developer.</h3>
 
 <p align="left"> <a href="https://twitter.com/awaitenps" target="blank"><img src="https://img.shields.io/twitter/follow/awaitenps?logo=twitter&style=for-the-badge" alt="awaitenps" /></a> </p>
